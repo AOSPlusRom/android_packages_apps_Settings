@@ -86,7 +86,6 @@
     <string name="security_maximize_widgets_title">Maximizar widgets</string>
     <string name="pa_version">Versión de ParanoidAndroid</string>
     <string name="pa_version_default">Desconocida</string>
-    <!-- Telo Radio -->
     <string name="telo_radio_settings_title">Gestor de conexiones</string>
     <string name="telo_radio_enable_title">Habilitar gestor</string>
     <string name="telo_radio_enable_summary_on">Gestor de conexiones habilitado.</string>
@@ -111,5 +110,8 @@
     <string name="telo_radio_info_title">Acerca del gestor de conexiones</string>
     <string name="telo_radio_info_summary">El gestor de conexiones TeloRadio &#169; es una característica creada por Telo (TeloKang ROM) para Android Inc. Idea original de atl4ntis (Cataclysm ROM).</string>
     <string name="battery_around_lockscreen_ring">Batería alrededor del anillo de desbloqueo</string>
+    <string name="navigation_bar_edit_title">Personalización de los botones</string>
+    <string name="navigation_bar_edit_summary">Editar los botones</string>
+    <string name="navigation_bar_height">Ancho de los botones</string>
 
 </resources>
