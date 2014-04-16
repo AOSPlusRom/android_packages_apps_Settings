@@ -110,5 +110,6 @@
     <string name="telo_radio_info_category">Información sobre TeloRadio</string>    
     <string name="telo_radio_info_title">Acerca del gestor de conexiones</string>
     <string name="telo_radio_info_summary">El gestor de conexiones TeloRadio &#169; es una característica creada por Telo (TeloKang ROM) para Android Inc. Idea original de atl4ntis (Cataclysm ROM).</string>
+    <string name="battery_around_lockscreen_ring">Batería alrededor del anillo de desbloqueo</string>
 
 </resources>
