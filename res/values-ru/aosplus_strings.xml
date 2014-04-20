@@ -109,12 +109,12 @@
 
     <!-- Message of dialog confirming that user wants to restart their device with a new runtime -->
     <string name="custom_runtime_warning_title">Предупреждение</string>
-    <string name="custom_runtime_warning_message">ART не поддерживается командой ParanoidAndroid. Этот параметр включен только для экспериментов и может вызвать нестабильность, сбои, потерю данных или препятствовать надлежащей загрузке вашего устройства. Посетите &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Введение в ART&lt;/a&gt; для большей информации.&lt;br/&gt;&lt;br/&gt;Мы просим вас не отправлять сообщения об ошибках, если у вас включен ART качестве среды выполнения.&lt;br/&gt;&lt;br/&gt;Вы уверены, что хотите перезагрузиться, для изменения среды выполнения с <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> на <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
+    <string name="custom_runtime_warning_message">ART не поддерживается командой AOSPLUS. Этот параметр включен только для экспериментов и может вызвать нестабильность, сбои, потерю данных или препятствовать надлежащей загрузке вашего устройства. Посетите &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Введение в ART&lt;/a&gt; для большей информации.&lt;br/&gt;&lt;br/&gt;Мы просим вас не отправлять сообщения об ошибках, если у вас включен ART качестве среды выполнения.&lt;br/&gt;&lt;br/&gt;Вы уверены, что хотите перезагрузиться, для изменения среды выполнения с <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> на <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
 
     <!-- Lockscreen widgets -->
     <string name="security_maximize_widgets_title">Развернуть виджеты</string>
 
     <!--PA version-->
-    <string name="pa_version">Версия ParanoidAndroid</string>
+    <string name="pa_version">Версия AOSPLUS</string>
     <string name="pa_version_default">Неизвестно</string>
 </resources>

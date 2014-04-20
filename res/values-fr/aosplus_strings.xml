@@ -109,12 +109,12 @@
 
     <!-- Message of dialog confirming that user wants to restart their device with a new runtime -->
     <string name="custom_runtime_warning_title">Avertissement</string>
-    <string name="custom_runtime_warning_message">ART n\'est pas supporté par l\'équipe ParanoidAndroid. Ce réglage est inclus à titre expérimental uniquement et peut être source d\'instabilités, de plantages, de perte de données ou peut empêcher le démarrage correct de votre appareil. Visitez &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introducing ART&lt;/a&gt; pour plus d\'informations.&lt;br/&gt;&lt;br/&gt;Nous vous demandons de ne pas soumettre de rapports de bug si vous avez réglé ART comme runtime.&lt;br/&gt;&lt;br/&gt;Êtes-vous sûr de vouloir redémarrer pour changer le runtime de <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> à <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
+    <string name="custom_runtime_warning_message">ART n\'est pas supporté par l\'équipe AOSPLUS. Ce réglage est inclus à titre expérimental uniquement et peut être source d\'instabilités, de plantages, de perte de données ou peut empêcher le démarrage correct de votre appareil. Visitez &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;Introducing ART&lt;/a&gt; pour plus d\'informations.&lt;br/&gt;&lt;br/&gt;Nous vous demandons de ne pas soumettre de rapports de bug si vous avez réglé ART comme runtime.&lt;br/&gt;&lt;br/&gt;Êtes-vous sûr de vouloir redémarrer pour changer le runtime de <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> à <xliff:g id="new" example="libart.so">%2$s</xliff:g>?</string>
 
     <!-- Lockscreen widgets -->
     <string name="security_maximize_widgets_title">Maximiser les widgets</string>
 
     <!--PA version-->
-    <string name="pa_version">Version de ParanoidAndroid</string>
+    <string name="pa_version">Version de AOSPLUS</string>
     <string name="pa_version_default">Inconnu</string>
 </resources>

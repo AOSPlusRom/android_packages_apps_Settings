@@ -109,12 +109,12 @@
 
     <!-- Message of dialog confirming that user wants to restart their device with a new runtime -->
     <string name="custom_runtime_warning_title">警告</string>
-    <string name="custom_runtime_warning_message">ParanoidAndroid 团队并不支持ART. 此为实验性设置, 并有可能导致系统不稳定、崩溃、数据丢失或影响设备的正确引导. 请访问 &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;ART 简介&lt;/a&gt; 以了解更多信息.&lt;br/&gt;&lt;br/&gt;如果你使用的是ART运行环境, 请勿向我们发送错误报告.&lt;br/&gt;&lt;br/&gt;要重新启动以将运行环境从 <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> 改为 <xliff:g id="new" example="libart.so">%2$s</xliff:g>吗?</string>
+    <string name="custom_runtime_warning_message">AOSPLUS 团队并不支持ART. 此为实验性设置, 并有可能导致系统不稳定、崩溃、数据丢失或影响设备的正确引导. 请访问 &lt;a href=\"http://source.android.com/devices/tech/dalvik/art.html\"&gt;ART 简介&lt;/a&gt; 以了解更多信息.&lt;br/&gt;&lt;br/&gt;如果你使用的是ART运行环境, 请勿向我们发送错误报告.&lt;br/&gt;&lt;br/&gt;要重新启动以将运行环境从 <xliff:g id="old" example="libdvm.so">%1$s</xliff:g> 改为 <xliff:g id="new" example="libart.so">%2$s</xliff:g>吗?</string>
 
     <!-- Lockscreen widgets -->
     <string name="security_maximize_widgets_title">最大化小部件</string>
 
     <!--PA version-->
-    <string name="pa_version">ParanoidAndroid 版本</string>
+    <string name="pa_version">AOSPLUS 版本</string>
     <string name="pa_version_default">未知</string>
 </resources>
